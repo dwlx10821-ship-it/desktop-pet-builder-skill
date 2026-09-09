@@ -1,0 +1,4 @@
+interface:
+  display_name: "Desktop Pet Builder"
+  short_description: "Create and package animated Windows desktop pets"
+  default_prompt: "Use $desktop-pet-builder to create a runnable Windows desktop pet from my attached reference image. Preserve the character identity, add the requested actions and interactions, validate the animation, and package a tested EXE."
